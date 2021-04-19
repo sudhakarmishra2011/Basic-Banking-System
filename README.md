@@ -1,7 +1,7 @@
 # Basic-Banking-System
 Project built for Sparks Foundation Internship
 
-#Demo
+# Demo
 https://eedemo.000webhostapp.com/index.php
 
 # AIM
