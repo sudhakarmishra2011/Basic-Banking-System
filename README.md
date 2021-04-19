@@ -1,5 +1,5 @@
 # Basic-Banking-System
-First Project built for Sparks Foundation Internship
+Project built for Sparks Foundation Internship
 
 # AIM
 Create a simple dynamic website which has the following specs.</br>
