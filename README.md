@@ -21,7 +21,7 @@ Create a simple dynamic website which has the following specs.</br>
    hosting provider. Check in code in github.
 
 # Tech Stack
--**FRONT END**: HTML, CSS, JavaScript, Bootstrap
--**BACK END**: PHP
--**DATABASE**: MySQL
+-  **FRONT END**: HTML, CSS, JavaScript, Bootstrap
+-  **BACK END**: PHP
+-  **DATABASE**: MySQL
 
